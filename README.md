@@ -7,7 +7,7 @@
 
 <h5 align="center">
   <a href="https://www.npmjs.com/~joverall22">
-    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-12,758-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" title="https://npm-stat.com/charts.html?author=joverall22"/>
+    <img alt="npm downloads count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-12,758-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" title="https://npm-stat.com/charts.html?author=mark-ohnsman"/>
   </a>
 </h5>
 
