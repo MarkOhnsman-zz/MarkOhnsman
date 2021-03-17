@@ -6,7 +6,7 @@
 <h4>I work at <a href="https://boisecodeworks.com" title="CodeWorks" target="_blank">CodeWorks</a> a developer bootcamp, manage several npm packages, I am a regular speaker on <a href="https://open.spotify.com/show/5iDwn9sntA8dlZVPCNCAwZ" title="The Dev Team Podcast" target="_blank">The Dev Team</a> and one of the founders of <a href="https://atlasworlds.com" target="_blank" title="Atlas Worlds">Atlas Worlds</a></h4>
 
 <h5 align="center">
-  <a href="https://www.npmjs.com/~joverall22">
+  <a href="https://www.npmjs.com/~mark-ohnsman">
     <img alt="npm downloads count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-12,758-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" title="https://npm-stat.com/charts.html?author=mark-ohnsman"/>
   </a>
 </h5>
