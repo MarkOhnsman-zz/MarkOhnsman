@@ -1,7 +1,6 @@
 <h2 align="center">Hello World!</h2>
 
-<h4 align="center">Dad, Dungeon Master, Developer, Dog lover, Dude,  and.... I am out of things with 'D'</h4>
-  <p>Instructor at BoiseCodeworks</p>
+<p>Instructor at BoiseCodeworks</p>
 <p>Founder of http://AtlasWorlds.com</p>
 <h4>I work at <a href="https://boisecodeworks.com" title="CodeWorks" target="_blank">CodeWorks</a> a developer bootcamp, manage several npm packages, I am a regular speaker on <a href="https://open.spotify.com/show/5iDwn9sntA8dlZVPCNCAwZ" title="The Dev Team Podcast" target="_blank">The Dev Team</a> and one of the founders of <a href="https://atlasworlds.com" target="_blank" title="Atlas Worlds">Atlas Worlds</a></h4>
 
